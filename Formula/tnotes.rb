@@ -7,22 +7,22 @@ class Tnotes < Formula
   on_macos do
     on_arm do
       url "https://github.com/0x1ocean/tnotes/releases/download/v1.3.0/tnotes-1.3.0-aarch64-apple-darwin.tar.gz"
-      sha256 "5046e8b7fabf1138e772bdfa9e11fd669633127ab98f47629266d989917aedb4"
+      sha256 "cbaebd33ff44eebbc0d54e5f5f0c855b030eae13dc186df9eb0282c8373a40c4"
     end
     on_intel do
       url "https://github.com/0x1ocean/tnotes/releases/download/v1.3.0/tnotes-1.3.0-x86_64-apple-darwin.tar.gz"
-      sha256 "a802a474d25825467aa2aec31b4d19f068bb60388220a354ee350c86d6a01137"
+      sha256 "ec22375a93fe6abd0eab6ec93b056354f453e9c40f013a3e0a54005a56f36081"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/0x1ocean/tnotes/releases/download/v1.3.0/tnotes-1.3.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "d9d556f5f4f97f1bc933efa000d2f2f5fa53218312e9cfbc50b864857d06be39"
+      sha256 "9f79950b04b9fe98d9614ff0cb4f78d9afe34fecca9e639951d4f67ae8dd5ff3"
     end
     on_intel do
       url "https://github.com/0x1ocean/tnotes/releases/download/v1.3.0/tnotes-1.3.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "174454dba8d9b6040fe0e0c1da1eb8bcf1a209e5ea9fd8914e8bdb08e790a50f"
+      sha256 "19fc4d6e3ef3e833dbaac6886f5049500de54b1bba06bad294ccfff8f2bd4623"
     end
   end
 
